@@ -1,1 +1,3 @@
 Inicio da resolução do laboratório 01 de GIT
+
+Modificando o arquivo pelo github
